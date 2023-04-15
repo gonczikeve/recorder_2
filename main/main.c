@@ -26,7 +26,7 @@
 static const char* TAG = "pdm_rec";
 #define REC_TIME            15
 #define BIT_SAMPLE          32
-#define SAMPLE_RATE         44100
+#define SAMPLE_RATE         48000
 #define I2S_CH              0
 #define NUM_CHANNELS        (1) // For mono recording only!
 #define SD_MOUNT_POINT      "/sdcard"
